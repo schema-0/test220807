@@ -1,7 +1,7 @@
 #include <cstdio>
 // I add comment at local git bash.
 int main( void ) {
-	printf( "WORLD\n" ); // New world~~
+	printf( "WORLD\n" ); // New world~~ + Whole world~~
 	printf( "ORLDW\n" );
 	printf( "RLDWO\n" );
 	printf( "LDWOR\n" );
