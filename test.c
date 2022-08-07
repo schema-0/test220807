@@ -6,7 +6,7 @@ int main( void ) {
 	cin >> n;
 
 	if( n == 5 ) {
-		cout << "*" << endl;
+		cout << "++++++" << endl; // at devel
 		cout << "**" << endl;
 		cout << "***" << endl;
 		cout << "****" << endl;
