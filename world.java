@@ -8,4 +8,5 @@ int main( void ) {
 	printf( "DWORL\n" );
 
 	return 0;
+	// It returns 0 to OS.
 }
