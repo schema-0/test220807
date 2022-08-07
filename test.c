@@ -6,7 +6,7 @@ int main( void ) {
 	cin >> n;
 
 	if( n == 5 ) {
-		cout << "++++++" << endl; // at devel & master
+		cout << "++++++" << endl; // at devel 22222 & master
 		cout << "**" << endl;
 		cout << "***" << endl;
 		cout << "****" << endl;
