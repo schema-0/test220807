@@ -1,8 +1,4 @@
 #include <iostream>
-// 이 파일은 22-08-07 15:29 로컬에서 수정되었다
-// 이 파일은 22-08-07 15:41 git에서 에디터로 수정되었다
-// file modifed in git bash before commit
-// added comment at merge status
 using namespace std;
 
 int main( void ) {
@@ -22,4 +18,3 @@ int main( void ) {
 
 	return 0;
 }
-// added comment at master
