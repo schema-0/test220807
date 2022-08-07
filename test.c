@@ -10,7 +10,7 @@ int main( void ) {
 		cout << "**" << endl;
 		cout << "***" << endl;
 		cout << "****" << endl;
-		cout << "*****" << endl;
+		cout << "________" << endl; // at master
 	} else {
 		cerr << "not implemented" << endl;
 		return 1;
