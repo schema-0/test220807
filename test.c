@@ -1,6 +1,7 @@
 #include <iostream>
 // 이 파일은 22-08-07 15:29 로컬에서 수정되었다
 // 이 파일은 22-08-07 15:41 git에서 에디터로 수정되었다
+// 이 파일은 git bash에서 다시 수정되고있다.
 using namespace std;
 
 int main( void ) {
